@@ -25,7 +25,7 @@
 		<dependency>
 		    <groupId>org.springframework</groupId>
 		    <artifactId>spring-beans</artifactId>
-		    <version>5.1.0.RELEASE</version>
+		    <version>5.3.18</version>
 		</dependency>
   		
   		<!-- 引入elastic-job-lite核心模块 -->
